@@ -9,7 +9,7 @@ Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://
 
 # Links #
 
-This presentation - <http://github.com/christianchristensen>
+This presentation - <http://goo.gl/xoELH>
 
 
 Sponsor - <http://allplayers.com>
