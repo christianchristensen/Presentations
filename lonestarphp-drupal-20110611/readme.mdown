@@ -3,8 +3,8 @@
 You can view this presentation if you install version 0.0.5 (or perhaps later) of the showoff gem.
 
     $ gem install showoff
-    $ git clone 
-    $ cd lonestarphp-drupal
+    $ git clone https://christianchristensen@github.com/christianchristensen/Presentations.git
+    $ cd Presentations/lonestarphp-drupal-20110611
     $ showoff serve
 
 And then open localhost:9090 in your browser.
