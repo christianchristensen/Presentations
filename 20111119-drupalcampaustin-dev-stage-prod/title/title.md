@@ -11,6 +11,6 @@ $(function(){
 
 # Dev -> Stage -> Prod #
 
-## Chris Christensen / Glenn Pratt ##
+## Chris Christensen :: @imetchrischris ##
 
 ### chris@allplayers.com ###
